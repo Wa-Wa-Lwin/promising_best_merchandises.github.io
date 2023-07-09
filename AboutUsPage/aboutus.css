@@ -1,0 +1,55 @@
+._215zd5 {
+    float: left;
+    width: 100%;
+    background: #fff;
+    padding: 62px 0;
+}
+.title478 {
+    padding: 62px 0 0;
+}
+.title478 h2 {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 4px !important;
+    text-align: left;
+    color: #333;
+    line-height: 26px;
+}
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child {
+    margin-top: auto;
+}
+.line-title {
+    padding-top: 20px;
+    margin-bottom: 6px;
+}
+.title478 p {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0 !important;
+    text-align: left;
+    color: #686f7a;
+    line-height: 26px;
+    padding-top: 27px;
+}
+.story125 {
+    text-align: center;
+}
+.CartImage{
+	width: 480px;
+	height: 375px;
+}
+.videoCss{
+	width: 560px;
+    height: 315px;
+    left: 0px;
+    top: 0px;
+}
+.title478{
+	padding: 0px!important;
+}
+.headerAboutUs{
+	border-bottom: 1px solid red;
+	width: 50px;
+}
